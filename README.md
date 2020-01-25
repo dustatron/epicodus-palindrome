@@ -49,10 +49,6 @@ _The software is provided as is. It might work as expected - or not. Just don't 
 * [Jquery](https://jquery.com/) - Used to interact with the DOM
 * [Bootstrap 4.4](https://getbootstrap.com/) - Used for styling
 
-## Technologies Used
-
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
-
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 Copyright (c) 2020 **_Dusty McCord_**
