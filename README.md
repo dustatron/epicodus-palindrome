@@ -1,6 +1,6 @@
 # _Palindrome Tester_
 
-#### _Test a work for sentence is a Palindrome, Jan 22 2020_
+#### _Test a work for sentence is a Palindrome, Jan 22. 2020_
 
 #### By _**Dusty McCord**_
 [link to demo site](https://dustatron.github.io/epicodus-palindrome/)
